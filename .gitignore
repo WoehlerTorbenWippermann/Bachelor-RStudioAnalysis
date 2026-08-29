@@ -1,0 +1,18 @@
+# Outputs (nicht committen)
+output/*
+!output/.gitkeep
+
+# Metrics-Inhalte (nicht committen)
+metrics/*
+!metrics/.gitkeep
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Logs
+*.log
